@@ -1,7 +1,2 @@
 test2.txt
-<<<<<<< HEAD
-lianggy1 haha
-
-=======
-
->>>>>>> myGit
+lianggy1 
